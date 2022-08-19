@@ -9,7 +9,7 @@ export const GlobalStyle = createGlobalStyle`
 
 :root{
     --Body-background: white;
-    --Input-background: #ebebeb;
+    --Input-background: #fdfdfd;
 }
 
 body{

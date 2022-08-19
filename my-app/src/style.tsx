@@ -9,7 +9,8 @@ export const Container = styled.div`
     flex-direction: column; 
 
     input{ 
-        width: 20%;
+        width: 30vw;
+        min-width: 300px;
         height: 5vh;
         margin-top: 5vh;
         border: 1px solid black;
@@ -21,6 +22,15 @@ export const Container = styled.div`
         :hover::placeholder{
             color: black;
             transition: all .5s ease;
+        }
+    }
+    a{
+        color: #6200ff;
+        margin-top: 1vh;
+        font-size: clamp(14px, 1.4vw, 40px);
+
+        :hover{
+            color: #7d2cff; 
         }
     }
 `
