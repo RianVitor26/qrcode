@@ -1,11 +1,9 @@
 # Gerador de QR code
 
 ## Descrição do Projeto 📌
->Um sistema de criação de QR code automático e com possibilidade de baixar a imagem.
+>Basicamente, o sistema fornece um qrcode baixável de acordo com o link colocado no input.
+Este projeto, foi feito para fins de estudo de algumas libs, React e TS.
 
-<br>
-
-[Visualizar a página](https://github.com/RianVitor26/QR-Code-Generator) 🔍
 <br>
 
 ## Tecnologias usadas 🛠 
@@ -13,6 +11,8 @@
 * React
 * TypeScript
 * Styled-components
+* qrcode
+* react-qr-code
 
 <br>
 
@@ -31,4 +31,6 @@
 <br>
 <br>
 
-Developed with ❤️ by RianVitor26 😊
+[Guia para a construção](https://www.youtube.com/watch?v=cFaihdXLy5A)
+<br>
+Escolhi utilizar o TS, diferente do guia, já que estou aprendendo hehe... 
