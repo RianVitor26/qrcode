@@ -22,15 +22,6 @@ Este projeto, foi feito para fins de estudo de algumas libs, React e TS.
 - Exercitar o TypeScript
 
 <br>
-
-## Como rodar o Projeto 🔑
-1. cd my-app
-2. npm install
-3. npm run dev
-
-<br>
 <br>
 
-[Guia para a construção](https://www.youtube.com/watch?v=cFaihdXLy5A)
-<br>
-Escolhi utilizar o TS, diferente do guia, já que estou aprendendo hehe... 
+[Guia](https://www.youtube.com/watch?v=cFaihdXLy5A)
